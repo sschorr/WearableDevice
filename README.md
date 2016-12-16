@@ -1,1 +1,1 @@
-# All parts necessary for assembling a fingertip 3-DoF skin deformation device
+# SolidWorks files for assembling a 3-DoF skin deformation device. 
